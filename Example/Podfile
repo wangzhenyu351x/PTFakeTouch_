@@ -1,0 +1,14 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'PTFakeTouch__Example' do
+  pod 'PTFakeTouch_', :path => '../'
+
+  target 'PTFakeTouch__Tests' do
+    inherit! :search_paths
+
+    pod 'Kiwi'
+    pod 'FBSnapshotTestCase'
+  end
+end
