@@ -1,3 +1,6 @@
+# PTFakeTouch
+  编译修改自：[PugaTang/PTFakeTouch](https://github.com/PugaTang/PTFakeTouch)
+
 # PTFakeTouch_
 
 [![CI Status](https://img.shields.io/travis/wangzhenyu/PTFakeTouch_.svg?style=flat)](https://travis-ci.org/wangzhenyu/PTFakeTouch_)
