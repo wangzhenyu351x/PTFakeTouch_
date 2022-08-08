@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'PTFakeTouch_'
 ```
 
-## Author
-
-wangzhenyu, wangzhenyu@gjzq.com.cn
-
 ## License
 
 PTFakeTouch_ is available under the MIT license. See the LICENSE file for more info.
